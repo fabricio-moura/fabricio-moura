@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fabricio-moura
+- 👋 Hi, I’m Fabrício
 - 👀 I’m interested in Java and C#
 - 🌱 I’m currently learning Java and react
 - 📫 How to reach me rmoura.fabricio@gmail.com
